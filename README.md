@@ -47,7 +47,3 @@ Given an English Wikipedia article, determine whether the text is about a *geogr
 5. **Evaluation**:
    - Evaluate the model using **Confusion Matrix** and **Classification Report** (precision, recall, F1-score)
 
----
-
-## 🧪 Example Output
-
