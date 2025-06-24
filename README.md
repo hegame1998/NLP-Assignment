@@ -1,12 +1,4 @@
-# NLP Assignment 1 – Wikipedia Text Classification
+# NLP Assignment 1 – Text Classification Using Wikipedia
 
-Technologies Used:
-
-Python 3
-
-NLTK (for preprocessing)
-
-Scikit-learn (for modeling and evaluation)
-
-wikipedia-api (for accessing Wikipedia pages)
+# NLP Assignment 2 – LLM-Inspired Summarization Algorithm
 
